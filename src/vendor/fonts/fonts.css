@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Mont";
+  font-style: normal;
+  src: url("./Mont-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Mont";
+  font-style: bold;
+  src: url("./Mont-Bold.woff") format("woff");
+}
